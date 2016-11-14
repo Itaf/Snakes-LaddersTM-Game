@@ -85,7 +85,7 @@ int main(void)
 		
 		if(comPlayer == 65)
 		{
-			comPlayer=comPlayer+L_S[64];
+			comPlayer = comPlayer + L_S[64];
 		}
 		
 		if(comPlayer == 73)
